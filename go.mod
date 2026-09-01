@@ -2,7 +2,7 @@ module github.com/sarvex/wslreglib-go
 
 go 1.23.0
 
-toolchain go1.25.3
+toolchain go1.27.1
 
 require (
 	github.com/satori/go.uuid v1.2.0
